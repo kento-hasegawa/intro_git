@@ -3,3 +3,4 @@ gitの練習をしていきます
 Git add
 Git commit
 Git status
+Git diff
